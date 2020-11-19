@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605815902 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\hund_game\jeu_du_pendu_global\jeu_h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605817026 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\hanged_game - copie\jeu_du_pendu_global\jeu_h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
